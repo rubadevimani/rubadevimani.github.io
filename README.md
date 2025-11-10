@@ -49,6 +49,6 @@ Built an Excel dashboard to analyze total casualities by severity, vehicle type,
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/rubadevi-mani-71a264265/)
-- 🧠 [GitHub](https://github.com/rubadevimani.github.io)
+- 🧠 [GitHub](https://rubadevimani.github.io/)
 - 📧 rubadevim@gmail.com
   
